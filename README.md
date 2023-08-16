@@ -1,0 +1,2 @@
+# Sentinel
+Espacio para queries
